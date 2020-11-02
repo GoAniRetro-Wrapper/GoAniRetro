@@ -25,3 +25,5 @@ GoAniRetro Begin In September During GoAnimate Retro Remastered 1.4.0's Date And
 <strong>Before Flash Player Retires, Their End Is From 2050, The Future Will Began More Orgins</strong>
 
 <faqInfo></faqInfo>
+
+<h4>FAQ END</h4>
