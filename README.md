@@ -9,6 +9,8 @@ GoAniRetro Begin In September During GoAnimate Retro Remastered 1.4.0's Date And
 
 <strong>GoAniRetro: Wrapper</strong> Officialy Named <strong>GoAnimate Retro Remastered</strong>, For A Old Release Date, <strong>GoAnimate Retro Remastered</strong> Launched In August 10 Of 2020
 
+<h5>FAQ</h5>
+
 <h3>Did GoAniRetro Wrapper/GoAnimate Retro Remastered Launched And Begin In His First Organs</h3>
 
 <strong>Yes</strong>
@@ -26,7 +28,7 @@ GoAniRetro Begin In September During GoAnimate Retro Remastered 1.4.0's Date And
 
 <faqInfo></faqInfo>
 
-<h4>FAQ END</h4>
+<h5>FAQ END</h5>
 
 <start></start>
 # Tutorial
