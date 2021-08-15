@@ -1,5 +1,5 @@
 # GoAniRetro
-Their Project To Be For Projections Of GoAniRetro (Sliced Up To GoAnimate's API Files), Like Cloudfront's API Servers Of GoAnimate
+NOTE: IT IS NOW OUTDATED! MOVED TO THE BLUE'ITY GOANIMATE CLIENT
 
 GoAniRetro Begin In September During GoAnimate Retro Remastered 1.4.0's Date And Calling To Vyond's Api Servers (New Update) (MagnaWrapper 1.0's API) also of them, Sort with deals With MagnaWrapper.exe and MagnaAPI.dll (used embed to work) (Purged by VS2019 And DLL's Api of Visual Studio)
 
