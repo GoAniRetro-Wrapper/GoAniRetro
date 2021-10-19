@@ -4,8 +4,8 @@ Their Project To Be For Projections Of GoAniRetro (Sliced Up To GoAnimate's API 
 GoAniRetro Begin In September During GoAnimate Retro Remastered 1.4.0's Date And Calling To Vyond's Api Servers
 
 <img src="https://avatars1.githubusercontent.com/u/73859126?s=200&v=4">
-
-<h3>HISTORY</h3>
+<article>
+  <h1>HISTORY</h1>
 
 <strong>GoAniRetro: Wrapper</strong> Officialy Named <strong>GoAnimate Retro Remastered</strong>, For A Old Release Date, <strong>GoAnimate Retro Remastered</strong> Launched In August 10 Of 2020
 
@@ -22,8 +22,9 @@ GoAniRetro Begin In September During GoAnimate Retro Remastered 1.4.0's Date And
 
 <h3>Did GoAniRetro Will Shutdown</h3>
 
-<strong>Before Flash Player Retires, Their End Is From 2050, The Future Will Began More Orgins</strong>
+<strong>Before Flash Player Retires, Their End Is From 2021, The Future Will Began More Orgins</strong>
 
 <faqInfo></faqInfo>
 
 <h4>FAQ END</h4>
+</article>
